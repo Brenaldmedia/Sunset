@@ -30,7 +30,7 @@ module.exports = {
     try {
       // Use default names if no custom name provided
       const packName = "";
-      const authorName = q ? q.trim() : "TRACLE - LITE";
+      const authorName = q ? q.trim() : "SUNSET - MD";
 
       // Determine target message that contains media
       const quotedMsg = message.message?.extendedTextMessage?.contextInfo?.quotedMessage;

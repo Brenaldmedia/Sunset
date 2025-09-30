@@ -31,7 +31,7 @@ module.exports = {
             }
 
             const pairingMessage = `🔑 *SUNSET-MD Pairing Instructions* 🔑\n\n` +
-                                `🌐 *Pairing Link:* https://tracle-lite.onrender.com\n\n` +
+                                `🌐 *Pairing Link:* https://SUNSET-.onrender.com\n\n` +
                                 `📋 *How to connect:*\n` +
                                 `1. Enter your WhatsApp number with country code (no "+", no brackets, no spaces)\n` +
                                 `2. Click "Request Pairing Code"\n` +

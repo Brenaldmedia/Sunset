@@ -786,7 +786,7 @@ let menuText = `
 🔧 Total  : ${allCommands.length} commands
 
 
-📋 MENU LIST
+📋 COMMAND LIST
 ───────────────────
 `;
 

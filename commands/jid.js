@@ -22,7 +22,7 @@ module.exports = {
                         title: "🆔 JID Information",
                         body: "❦SUNSET❦'s Official Account",
                         thumbnailUrl: "https://files.catbox.moe/0dfeid.jpg", // Replace with your image URL
-                        sourceUrl: "https://github.com/Brenaldmedia/Tracle",      // Replace with your repo link
+                        sourceUrl: "https://github.com/Brenaldmedia/SUNSET",      // Replace with your repo link
                         mediaType: 1,
                         renderLargerThumbnail: true
                     }
